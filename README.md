@@ -80,9 +80,9 @@ Update your PayPal client ID and secret in the backend .env file.
 ![Admin View](adminview.png)
 
 ### Trainer View
-![Trainer View](image.png)
+![Trainer View](trainerview.png)
 
 ### Member View
-![Member View](member.png)
+![Member View](memberview.png)
 
 
